@@ -1,0 +1,50 @@
+#he{
+
+width : 100% ; 
+font-size: 18px ; 
+margin-top: 0;
+padding: 12px;
+text-align: left;
+}
+
+#he button {
+
+float: right;
+
+
+}
+
+.binary{
+
+width:100% ; 
+
+
+}
+
+.modal-dialog {
+
+width:90% ; 
+
+
+
+}
+
+#yf {
+
+background-color: red;
+color: black;
+margin: 0 ;
+padding: 10px;
+ position:fixed;
+ bottom : 0 ; 
+width: 100%;
+}
+
+video{
+
+background-image: url("gc.png");
+background-size: cover;
+background-position: center ;
+padding: 24px ; 
+
+}
